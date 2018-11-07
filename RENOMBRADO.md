@@ -1,0 +1,1 @@
+La renombración ha sido ejecutada.
